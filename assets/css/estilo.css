@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.cabecalho {
+    background-image: url("/assets/images/background.jpeg");
+    padding: 100px 0;
+    background-size: cover;
+    text-align: center;
+    font-size: 24px;
+    font-family: "Roboto", sans-serif;
+}
+
+.rodape-texto {
+    background-color: #202124;
+    color: #F1F1F1;
+}
+
+.rodape-logos {
+    background-color: #38393F;
+    padding: 8px;
+}
